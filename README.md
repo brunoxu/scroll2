@@ -5,7 +5,7 @@ scroll2是一个jQuery插件，用来处理scroll事件，相比原生scroll会�
 
 针对jQuery scroll事件的优化，idea不是我首创，我只是把它做成jQuery插件，加入可以配置delay功能。
 
-关于原生scroll处理和优化后scroll处理，我做了一个简单的测试： 文章编辑中。。。
+关于原生scroll处理和优化后scroll处理，我做了一个简单的测试： [《scroll事件处理两种写法的简单测试》](http://www.brunoxu.com/ordinary-scroll-event-and-optimized-by-a-simple-test.html)
 
 
 原理
