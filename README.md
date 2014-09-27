@@ -25,15 +25,18 @@ scroll2参数有两个，第一个是处理函数，第二个是延迟值。
 
 调用代码如下：
 
+```JavaScript
 var scroll_handler = function(){
 ...
 }
 $(window).scroll2(scroll_handler, 400);
+```
 
 
 Sample
 ---------
 
+```HTML
 <script type="text/javascript" src="jquery.min.js"></script>
 <script type="text/javascript" src="jquery.scroll2.js"></script>
 
@@ -44,3 +47,4 @@ $(window).scroll2(function(){console.log('+++++++')});
 //可以对比原生scroll效果测试
 //$(window).scroll(function(){console.log('+++++++')});
 </script>
+```
